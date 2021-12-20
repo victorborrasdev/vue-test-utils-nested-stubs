@@ -1,0 +1,22 @@
+{
+  "name": "vue-test-utils-nested-stubs",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest src"
+  },
+  "dependencies": {
+    "jest": "^26.6.3",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "@vue/test-utils": "^2.0.0-rc.17",
+    "vite": "^2.7.2",
+    "vue-jest": "^5.0.0-alpha.10"
+  }
+}
